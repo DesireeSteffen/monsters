@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+    "editor.formatOnType": true,
+    "diffEditor.codeLens": true,
+    "diffEditor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.fontLigatures": true,
+    "terminal.explorerKind": "external"
+}
